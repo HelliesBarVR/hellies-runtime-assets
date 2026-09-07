@@ -1,5 +1,4 @@
 {
-  /* STAFF */
   "users": {
     "Silvul": {
       "role": "Owner",
@@ -30,7 +29,6 @@
       "reasonLong": ""
     },
 
-    /* VIPS */
 
     "Slayer": {
       "role": "AlinnVR",
@@ -39,7 +37,6 @@
       "reasonLong": ""
     },
 
-    /* USUARIOS PROBLEMATICOS */
     "UsuarioProblematico": {
       "role": "Cliente",
       "problematic": true,
