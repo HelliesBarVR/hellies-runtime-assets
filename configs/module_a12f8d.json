@@ -30,6 +30,15 @@
       "reasonLong": ""
     },
 
+    /* VIPS */
+
+    "Slayer": {
+      "role": "AlinnVR",
+      "problematic": false,
+      "reasonShort": "",
+      "reasonLong": ""
+    },
+
     /* USUARIOS PROBLEMATICOS */
     "UsuarioProblematico": {
       "role": "Cliente",
