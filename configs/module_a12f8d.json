@@ -1,19 +1,36 @@
 {
+  /* STAFF */
   "users": {
-    "Kane": {
+    "Silvul": {
       "role": "Owner",
+      "problematic": true,
+      "reasonShort": "Dedear Panchitas",
+      "reasonLong": ""
+    },
+
+    "ArmandoBronca": {
+      "role": "Administrador",
       "problematic": false,
       "reasonShort": "",
       "reasonLong": ""
     },
 
-    "EjemploBartender": {
+
+    "KaneCat": {
       "role": "Bartender",
       "problematic": false,
       "reasonShort": "",
       "reasonLong": ""
     },
 
+    "Slayer": {
+      "role": "Seguridad",
+      "problematic": false,
+      "reasonShort": "",
+      "reasonLong": ""
+    },
+
+    /* USUARIOS PROBLEMATICOS */
     "UsuarioProblematico": {
       "role": "Cliente",
       "problematic": true,
