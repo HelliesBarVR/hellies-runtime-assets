@@ -1,0 +1,24 @@
+{
+  "users": {
+    "Kane": {
+      "role": "Owner",
+      "problematic": false,
+      "reasonShort": "",
+      "reasonLong": ""
+    },
+
+    "EjemploBartender": {
+      "role": "Bartender",
+      "problematic": false,
+      "reasonShort": "",
+      "reasonLong": ""
+    },
+
+    "UsuarioProblematico": {
+      "role": "Cliente",
+      "problematic": true,
+      "reasonShort": "Conducta",
+      "reasonLong": "Requiere revisión por parte del equipo de seguridad."
+    }
+  }
+}
