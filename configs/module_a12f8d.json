@@ -14,7 +14,6 @@
       "reasonLong": ""
     },
 
-
     "KaneCat": {
       "role": "Bartender",
       "problematic": false,
@@ -24,14 +23,6 @@
 
     "Slayer": {
       "role": "Seguridad",
-      "problematic": false,
-      "reasonShort": "",
-      "reasonLong": ""
-    },
-
-
-    "Slayer": {
-      "role": "AlinnVR",
       "problematic": false,
       "reasonShort": "",
       "reasonLong": ""
