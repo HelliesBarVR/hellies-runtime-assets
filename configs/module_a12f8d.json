@@ -1,5 +1,13 @@
 {
   "users": {
+
+    "[1] Local Player": {
+    "role": "Seguridad",
+    "problematic": false,
+    "reasonShort": "",
+    "reasonLong": ""
+  }
+    
     "Silvul": {
       "role": "Owner",
       "problematic": true,
@@ -27,7 +35,22 @@
       "reasonShort": "",
       "reasonLong": ""
     },
+    
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     "UsuarioProblematico": {
       "role": "Cliente",
       "problematic": true,
