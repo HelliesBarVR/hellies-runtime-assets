@@ -22,14 +22,43 @@
       "reasonLong": ""
     },
 
-    "KaneCat": {
-      "role": "Bartender",
+    "YoseiTKS": {
+      "role": "Administrador",
       "problematic": false,
       "reasonShort": "",
       "reasonLong": ""
     },
 
-    "Slayer": {
+    "KaneCat": {
+      "role": "Administrador",
+      "problematic": false,
+      "reasonShort": "",
+      "reasonLong": ""
+    },
+
+    "୨୧ｊｉｒａｉｎｙａｎｋｏ୨୧": {
+      "role": "Administrador",
+      "problematic": false,
+      "reasonShort": "",
+      "reasonLong": ""
+    },
+
+    "Slayer A361": {
+      "role": "Seguridad",
+      "problematic": false,
+      "reasonShort": "",
+      "reasonLong": ""
+    },
+
+    
+    "スウェク ミコ": {
+      "role": "Seguridad",
+      "problematic": false,
+      "reasonShort": "",
+      "reasonLong": ""
+    },
+
+    "-Kafka-": {
       "role": "Seguridad",
       "problematic": false,
       "reasonShort": "",
@@ -45,8 +74,22 @@
 
     "Ayukaawa": {
       "role": "Mesero",
-      "problematic": true,
-      "reasonShort": "Mala perrita",
+      "problematic": false,
+      "reasonShort": "",
+      "reasonLong": ""
+    },
+
+    "Ayukaawa": {
+      "role": "Mesero",
+      "problematic": false,
+      "reasonShort": "",
+      "reasonLong": ""
+    },
+
+    "~Chiliwili~": {
+      "role": "Mesero",
+      "problematic": false,
+      "reasonShort": "",
       "reasonLong": ""
     },
     
