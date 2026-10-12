@@ -173,8 +173,22 @@
       "reasonLong": ""
     },
 
+    "Sixcandy": {
+      "role": "VIP",
+      "problematic": false,
+      "reasonShort": "",
+      "reasonLong": ""
+    },
 
 
+
+
+    "ErsEgOn": {
+      "role": "Cliente",
+      "problematic": true,
+      "reasonShort": "Acoso",
+      "reasonLong": "Tocar a las empleadas de forma indevida"
+    },
 
 
 
