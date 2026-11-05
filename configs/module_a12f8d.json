@@ -10,8 +10,8 @@
     
     "Silvul": {
       "role": "Owner",
-      "problematic": true,
-      "reasonShort": "Dedear Panchitas",
+      "problematic": false,
+      "reasonShort": "",
       "reasonLong": ""
     },
 
@@ -81,8 +81,8 @@
 
     "kookiie03": {
       "role": "Bartender",
-      "problematic": true,
-      "reasonShort": "Mala perrita",
+      "problematic": false,
+      "reasonShort": "",
       "reasonLong": ""
     },
 
@@ -172,21 +172,6 @@
       "reasonShort": "",
       "reasonLong": ""
     },
-
-    "Sixcandy": {
-      "role": "VIP",
-      "problematic": false,
-      "reasonShort": "",
-      "reasonLong": ""
-    },
-
-    "Lanrossida": {
-      "role": "VIP",
-      "problematic": false,
-      "reasonShort": "",
-      "reasonLong": ""
-    },
-
 
 
 
